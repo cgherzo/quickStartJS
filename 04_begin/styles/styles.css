@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+
+h1{
+	color: white;
+}
+
+article{
+	color: white;
+}
+
+mark{
+	background-color: black;
+	color: orange;
+}
